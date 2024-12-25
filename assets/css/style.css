@@ -11096,6 +11096,8 @@ table.woocommerce-product-attributes {
   background-color: var(--smoke-color);
   z-index: 2;
   border-radius: 12px;
+  height: 250px;
+  width: 250px;
   /* Small devices */
 }
 
